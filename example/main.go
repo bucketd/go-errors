@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/icelolly/go-errors"
+	"github.com/bucketd/go-errors"
 )
 
 // Error kinds may be defined as constants.

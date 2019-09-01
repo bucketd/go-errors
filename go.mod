@@ -1,4 +1,4 @@
-module github.com/icelolly/go-errors
+module github.com/bucketd/go-errors
 
 go 1.12
 

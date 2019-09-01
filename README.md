@@ -7,9 +7,9 @@ following specific features in mind:
 * **Stack tracing**: Allowing the path taken to return an error to be easily identified.
 * **Structured fields**: Allowing errors to be logged with additional contextual information.
 
-This library has built upon the mistakes we've made and lessons we've learnt with regards to error
-handling at Icelolly whilst working on our internal APIs. This library was inspired by approaches 
-found elsewhere in the community, most notably the approach found in [Upspin][1].
+This library has built upon the mistakes made and lessons learnt with regards to error handling at 
+Icelolly whilst working on internal APIs. This library was inspired by approaches found elsewhere 
+in the community, most notably the approach found in [Upspin][1].
 
 ## Usage
 
@@ -78,11 +78,11 @@ errors, wrapping them, handling different kinds of errors, and dealing with thin
 
 [1]: https://github.com/upspin/upspin/blob/master/errors/errors.go#L23
 
-[GoDoc]: https://godoc.org/github.com/icelolly/go-errors
-[GoDoc Badge]: https://godoc.org/github.com/icelolly/go-errors?status.svg
+[GoDoc]: https://godoc.org/github.com/bucketd/go-errors
+[GoDoc Badge]: https://godoc.org/github.com/bucketd/go-errors?status.svg
 
-[Go Report Card]: https://goreportcard.com/report/github.com/icelolly/go-errors
-[Go Report Card Badge]: https://goreportcard.com/badge/github.com/icelolly/go-errors
+[Go Report Card]: https://goreportcard.com/report/github.com/bucketd/go-errors
+[Go Report Card Badge]: https://goreportcard.com/badge/github.com/bucketd/go-errors
 
-[Travis Build]: https://travis-ci.org/icelolly/go-errors
-[Travis Build Badge]: https://api.travis-ci.org/icelolly/go-errors.svg?branch=master
+[Travis Build]: https://travis-ci.org/bucketd/go-errors
+[Travis Build Badge]: https://api.travis-ci.org/bucketd/go-errors.svg?branch=master
